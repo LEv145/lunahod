@@ -1,4 +1,4 @@
-from lunohod.common_details import AngularServo90, AngularServo360
+from lunohod.common import AngularServo90, AngularServo360
 
 
 class Hand():
