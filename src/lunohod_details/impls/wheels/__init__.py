@@ -1,4 +1,4 @@
-from lunohod.common import AngularServo90
+from lunohod_details.common import AngularServo90
 
 from .VNH3SP30_motor import VNH3SP30Motor
 

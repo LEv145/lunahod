@@ -1,4 +1,4 @@
-from lunohod.impls.hand import Hand, AngularServo360, AngularServo90
+from lunohod_details.impls.hand import Hand, AngularServo360, AngularServo90
 
 
 BASE_SERVO_PIN = 23

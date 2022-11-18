@@ -1,4 +1,4 @@
-from lunohod.common import AngularServo90, AngularServo90Plus
+from lunohod_details.common import AngularServo90, AngularServo90Plus
 
 
 class Claw():

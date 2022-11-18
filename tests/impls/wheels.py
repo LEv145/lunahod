@@ -1,4 +1,4 @@
-from lunohod.impls.wheels import Wheels, VNH3SP30Motor, AngularServo90
+from lunohod_details.impls.wheels import Wheels, VNH3SP30Motor, AngularServo90
 
 
 IN_A_PIN = 16

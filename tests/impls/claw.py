@@ -1,4 +1,4 @@
-from lunohod.impls.claw import Claw, AngularServo90, AngularServo90Plus
+from lunohod_details.impls.claw import Claw, AngularServo90, AngularServo90Plus
 
 
 ACTIVE_SERVO_PIN = 23

@@ -1,8 +1,8 @@
-from lunohod.common import AngularServo360, AngularServo90, AngularServo90Plus
-from lunohod.impls.wheels import Wheels
-from lunohod.impls.bucket import Bucket
-from lunohod.impls.claw import Claw
-from lunohod.impls.hand import Hand
+from lunohod_details.common import AngularServo360, AngularServo90, AngularServo90Plus
+from lunohod_details.impls.wheels import Wheels
+from lunohod_details.impls.bucket import Bucket
+from lunohod_details.impls.claw import Claw
+from lunohod_details.impls.hand import Hand
 
 
 class Lunohod():

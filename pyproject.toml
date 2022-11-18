@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "lunahod"
+name = "lunahod-details"
 version = "0.1.0"
 description = ""
 authors = ["LEv145"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "lunohod", from = "src"}]
+packages = [{include = "lunohod_details", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.7"

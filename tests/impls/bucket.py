@@ -1,4 +1,4 @@
-from lunohod.impls.bucket import Bucket, AngularServo90
+from lunohod_details.impls.bucket import Bucket, AngularServo90
 
 
 ACTIVE_SERVO_PIN = 22

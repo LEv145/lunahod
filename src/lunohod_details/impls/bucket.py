@@ -1,4 +1,4 @@
-from lunohod.common import AngularServo90
+from lunohod_details.common import AngularServo90
 
 
 class Bucket():
