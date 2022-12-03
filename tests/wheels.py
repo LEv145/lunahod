@@ -5,6 +5,7 @@ IN_A_PIN = 16
 IN_B_PIN = 20
 PWM_PIN = 21
 EN_PIN = 12
+SERVO_PIN = 7
 
 
 wheels = Wheels(
