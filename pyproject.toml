@@ -8,8 +8,10 @@ readme = "README.md"
 packages = [{include = "lunohod_details", from = "src"}]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.9"
 gpiozero = "^1.6.2"
+rpi-gpio = "^0.7.1"
+pigpio = "^1.78"
 
 
 [build-system]
