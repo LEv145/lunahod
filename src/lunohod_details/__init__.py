@@ -1,5 +1,5 @@
 from lunohod_details.common import AngularServo360, AngularServo90, AngularServo90Plus
-from lunohod_details.impls.wheels import Wheels
+from lunohod_details.impls.wheels import Wheels, VNH3SP30Motor
 from lunohod_details.impls.bucket import Bucket
 from lunohod_details.impls.claw import Claw
 from lunohod_details.impls.hand import Hand
