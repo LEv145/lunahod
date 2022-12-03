@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lunahod-details"
+name = "lunohod-details"
 version = "0.1.2"
 description = ""
 authors = ["LEv145"]
